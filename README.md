@@ -15,9 +15,9 @@
 
 ## Sobre mim
 
-Profissional de T.I com mais de 5 anos de experiência, atuando na interseção entre tecnologia, dados e operações. Ao longo da carreira, desenvolvi aplicações web, automatizei processos com Python e analisei dados de vendas e estoque em ambientes de alto volume — sempre com foco em eficiência e geração de valor.
+Profissional de T.I com mais de 5 anos de experiência, atuando na interseção entre tecnologia, dados e operações. Desenvolvi aplicações web, automatizei processos com Python e analisei dados de vendas e estoque em ambientes de alto volume.
 
-Atualmente como **Coordenador de T.I na Mercadeli Supermercados**, lidero iniciativas de automação e suporte técnico, enquanto aprofundo minha transição para a área de **Ciência e Análise de Dados**.
+Atualmente como **Coordenador de T.I na Mercadeli Supermercados**, lidero iniciativas de automação e suporte técnico e desenvolvimento.
 
 Formado em **Análise e Desenvolvimento de Sistemas** (Estácio, 2024) e em formação contínua em dados, cloud e desenvolvimento web.
 
