@@ -81,14 +81,14 @@ Formado em **Análise e Desenvolvimento de Sistemas** (Estácio, 2024) e em form
 
 | Área | Curso | Instituição |
 |------|-------|-------------|
-| ☁️ Cloud | Computação em Nuvem – AWS | Estácio |
-| 📊 Dados | Introdução à Análise de Dados – Power BI | Fundação Bradesco |
-| 📊 Dados | Formação em Cientista de Dados | Udemy *(em andamento)* |
-| 💻 Prog. | Desenvolvimento OO com Python | Fundação Bradesco |
-| 💻 Prog. | C# – Básico ao Avançado | Fundação Bradesco |
-| 💻 Prog. | Programação Web com Python e Django | Udemy *(em andamento)* |
-| 💻 Prog. | Java – Básico | Fundação Bradesco |
-| 🖥️ CS | Introdução à Ciência da Computação – CS50 | Fundação Estudar |
+|  Cloud | Computação em Nuvem – AWS | Estácio |
+|  Dados | Introdução à Análise de Dados – Power BI | Fundação Bradesco |
+|  Dados | Formação em Cientista de Dados | Udemy *(em andamento)* |
+|  Prog. | Desenvolvimento OO com Python | Fundação Bradesco |
+|  Prog. | C# – Básico ao Avançado | Fundação Bradesco |
+|  Prog. | Programação Web com Python e Django | Udemy *(em andamento)* |
+|  Prog. | Java – Básico | Fundação Bradesco |
+|  CS | Introdução à Ciência da Computação – CS50 | Fundação Estudar |
 
 ---
 
